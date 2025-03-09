@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Laundry_Laudge/static/css/main.6cda4817.css",
+    "main.js": "/Laundry_Laudge/static/js/main.16d4dda7.js",
+    "static/js/453.40115e73.chunk.js": "/Laundry_Laudge/static/js/453.40115e73.chunk.js",
+    "static/media/image_10.webp": "/Laundry_Laudge/static/media/image_10.193ef190494833f1b56f.webp",
+    "static/media/image_1.webp": "/Laundry_Laudge/static/media/image_1.fcee36792d99bd8fa2ae.webp",
+    "static/media/image_6.webp": "/Laundry_Laudge/static/media/image_6.31ab2e6e47cbe97de0c7.webp",
+    "static/media/image_11.webp": "/Laundry_Laudge/static/media/image_11.7f1f2a0075ae16ea3b20.webp",
+    "static/media/image_8.webp": "/Laundry_Laudge/static/media/image_8.ffaac40b2efb6917b33f.webp",
+    "static/media/image_9.webp": "/Laundry_Laudge/static/media/image_9.5c4c150c9fbfcd656801.webp",
+    "static/media/image_4.webp": "/Laundry_Laudge/static/media/image_4.57d3e27b6e6154528012.webp",
+    "static/media/image_7.webp": "/Laundry_Laudge/static/media/image_7.6fa844242dc61362d814.webp",
+    "static/media/image_5.webp": "/Laundry_Laudge/static/media/image_5.03a4b74abc18ec3eb1d5.webp",
+    "static/media/image_3.webp": "/Laundry_Laudge/static/media/image_3.ffa93b43f644143a0fee.webp",
+    "static/media/image_2.webp": "/Laundry_Laudge/static/media/image_2.d40c3f7086a9933fb277.webp",
+    "index.html": "/Laundry_Laudge/index.html",
+    "main.6cda4817.css.map": "/Laundry_Laudge/static/css/main.6cda4817.css.map",
+    "main.16d4dda7.js.map": "/Laundry_Laudge/static/js/main.16d4dda7.js.map",
+    "453.40115e73.chunk.js.map": "/Laundry_Laudge/static/js/453.40115e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cda4817.css",
+    "static/js/main.16d4dda7.js"
+  ]
+}
