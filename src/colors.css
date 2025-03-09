@@ -1,0 +1,12 @@
+/* src/colors.css */
+:root {
+    --primary-color: darkblue; /* Blue for primary actions */
+    --secondary-color: #6c757d; /* Gray for secondary text or components */
+    --background-color: #f8f9fa; /* Light gray for background */
+    --header-text-color: darkblue;
+    --footer-text-color: #666;
+    --button-bg-color: green;
+    --button-text-color: white;
+    --error-color: #dc3545; /* Red for errors or warnings */
+  }
+  

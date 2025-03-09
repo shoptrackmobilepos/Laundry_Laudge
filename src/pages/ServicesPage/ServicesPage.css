@@ -1,0 +1,22 @@
+@import '../../colors.css';
+
+.services-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.services-page h1 {
+  color: var(--header-text-color);
+}
+
+.services-page ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services-page li {
+  background-color: var(--background-color);
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}

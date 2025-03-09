@@ -1,0 +1,27 @@
+/* Header Container (Main Page) */
+.headers {
+    display: flex;
+    flex-direction: row; /* Arrange buttons horizontally */
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    gap: 15px; /* Space between buttons */
+    background-color: #f8f9fa; /* Keep background for Main Page Header */
+}
+
+/* Header-specific buttons */
+.headers .header-button {
+    padding: 14px 25px;
+    background-color: var(--primary-color); /* Use primary color */
+    color: white;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: padding 0.2s ease-in-out;
+}
+
+/* Hover Effect */
+.headers .header-button:hover {
+    padding: 16px 27px; /* Slight padding increase on hover */
+}

@@ -1,0 +1,46 @@
+.page-container {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+ul {
+    text-align: left;
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 14px;
+    color: #666;
+    margin: 5px 0;
+}
+
+/* ✅ Back Button */
+.back-button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.back-button:hover {
+    background-color: #333;
+}

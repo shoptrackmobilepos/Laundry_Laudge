@@ -1,0 +1,33 @@
+.location-page {
+  background: var(--background-color); /* Use your color variable */
+  color: var(--text-color); /* Use your color variable */
+  padding: 20px;
+  height: 100vh; /* Full view height */
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 2px solid var(--primary-color); /* Example: a defined primary color */
+}
+
+.region-list {
+  list-style: none;
+  padding: 0;
+  overflow-y: auto;
+  height: 80%; /* Adjust based on your design */
+}
+
+.region-list li {
+  padding: 10px;
+  border-bottom: 1px solid var(--secondary-color); /* Example: a defined secondary color */
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.region-list li:hover {
+  background-color: var(--primary-color); /* Highlight on hover */
+  color: var(--button-text-color); /* Ensure text is visible on hover */
+}
